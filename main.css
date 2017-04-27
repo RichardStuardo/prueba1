@@ -1,0 +1,34 @@
+header{
+  background: url(/home/desafio-latam/Documents/Prueba1/Foto1.jpg);
+  background-size: cover;
+  width: 100%;
+  min-height: 530px;
+  padding-top: 100px;
+  
+}
+
+nav{
+
+  background: blue;
+}
+
+.color1{
+  color: beige;
+}
+
+section{
+
+background: url(/home/desafio-latam/Downloads/10-informatica.jpg);
+border-top:3px solid black;
+}
+
+aside{
+  padding-top: 5%;
+  background-color: cornflowerblue;
+}
+footer{
+background-color: burlywood;
+height: 60%;
+
+
+}
